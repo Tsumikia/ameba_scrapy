@@ -1,19 +1,23 @@
 [
     {
-        "email": "natane91917@foxmail.com",
+        "email": "user1's email",
         "data": [
             {
-                "url": "https://ameblo.jp/kotobukiminako-blog/entrylist.html",
-                "cache": "https://ameblo.jp/-blog/entry-12824668399.html"
+                "url": "url1",
+                "cache": ""
+            },
+            {
+                "url": "url2",
+                "cache": ""
             }
         ]
     },
     {
-        "email": "natane91917@foxmail.com",
+        "email": "user1's email",
         "data": [
             {
-                "url": "https://ameblo.jp/toyosakiaki-blog/entrylist.html",
-                "cache": "https://ameblo.jp/-blog/entry-12824538486.html"
+                "url": "url2",
+                "cache": ""
             }
         ]
     }
